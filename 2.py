@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 import colorama as cl
 from colorama import Fore, Back, Style
-cl.init(autoreset=True)
+cl.init(autoreset=True)\
 
 def update_daily_schedule(route, mode):
     today = datetime.today()
