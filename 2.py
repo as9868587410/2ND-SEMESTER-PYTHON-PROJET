@@ -19,9 +19,10 @@ def update_daily_schedule(route, mode):
     base_file = f"{route}_{mode}.txt"
     if not os.path.exists(base_file):
         return
-
-    with open(base_file, "r") as f:
-        base_data = f.readlines()
+    
+    f=open(base_file,"r")
+    # with open(base_file, "r") as f:
+    base_data = f.readlines()
 
     for i in range(61):  # today + 60 days
         new_day = today + timedelta(days=i)
@@ -36,8 +37,9 @@ def delete_60_days_files(route, mode):
     pass  # keep it as a placeholder in case it's used somewhere
 
 def daily_run():
-    with open("routes.txt", "r") as f:
-        data = f.readlines()
+    f=open("routes.txt","r")
+    # with open("routes.txt", "r") as f:
+    data = f.readlines()
 
     routes = []
     for line in data:
