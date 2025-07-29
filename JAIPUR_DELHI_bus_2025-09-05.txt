@@ -1,0 +1,2 @@
+BUS NUMBER       SOURCE TIME      DESTINATION TIME      TOTAL TIME     T.SEATS      REMAINING SEATS
+BS123              02:00              05:55                03:55          56              56 

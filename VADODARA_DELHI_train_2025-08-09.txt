@@ -1,0 +1,2 @@
+TRAIN NUMBER     SOURCE TIME      DESTINATION TIME      TOTAL TIME     T.SEATS      REMAINING SEATS
+TR951              06:00              17:13                11:13          120             120

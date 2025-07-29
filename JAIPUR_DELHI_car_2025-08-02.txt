@@ -1,0 +1,2 @@
+CAR NUMBER       SOURCE TIME      DESTINATION TIME      TOTAL TIME     T.SEATS      REMAINING SEATS
+CR012              22:32              02:55                04:23          4               4  

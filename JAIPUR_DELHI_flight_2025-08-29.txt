@@ -1,0 +1,2 @@
+FLIGHT NUMBER    SOURCE TIME      DESTINATION TIME      TOTAL TIME     T.SEATS      REMAINING SEATS
+FL123              12:00              12:45                00:45          60              60 

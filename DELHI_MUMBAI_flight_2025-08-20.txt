@@ -1,0 +1,2 @@
+FLIGHT NUMBER    SOURCE TIME      DESTINATION TIME      TOTAL TIME     T.SEATS      REMAINING SEATS
+FL963              08:30              10:00                01:30          60              60 
